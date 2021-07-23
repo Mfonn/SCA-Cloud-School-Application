@@ -5,5 +5,5 @@ Instructions For Deployment of App:
 #map from port 8080 on container to port 3000 on host's machine
 
 
-Link do Docker Hub repository:
+Link to Docker Hub repository:
 https://hub.docker.com/repository/docker/mfon01/sca_cloud_school_assessment
